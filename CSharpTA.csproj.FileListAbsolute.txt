@@ -1,0 +1,12 @@
+C:\Users\Jackson\source\repos\CSharpTA\CSharpTA\bin\Debug\CSharpTA.exe.config
+C:\Users\Jackson\source\repos\CSharpTA\CSharpTA\bin\Debug\CSharpTA.exe
+C:\Users\Jackson\source\repos\CSharpTA\CSharpTA\bin\Debug\CSharpTA.pdb
+C:\Users\Jackson\source\repos\CSharpTA\CSharpTA\obj\Debug\CSharpTA.Form1.resources
+C:\Users\Jackson\source\repos\CSharpTA\CSharpTA\obj\Debug\CSharpTA.Properties.Resources.resources
+C:\Users\Jackson\source\repos\CSharpTA\CSharpTA\obj\Debug\CSharpTA.csproj.GenerateResource.cache
+C:\Users\Jackson\source\repos\CSharpTA\CSharpTA\obj\Debug\CSharpTA.csproj.CoreCompileInputs.cache
+C:\Users\Jackson\source\repos\CSharpTA\CSharpTA\obj\Debug\CSharpTA.exe
+C:\Users\Jackson\source\repos\CSharpTA\CSharpTA\obj\Debug\CSharpTA.pdb
+C:\Users\Jackson\source\repos\CSharpTA\CSharpTA\obj\Debug\CSharpTA.Update_Time_Interval.resources
+C:\Users\Jackson\source\repos\CSharpTA\CSharpTA\obj\Debug\CSharpTA.Stopwatch.resources
+C:\Users\Jackson\source\repos\CSharpTA\CSharpTA\obj\Debug\CSharpTA.Timer.resources
